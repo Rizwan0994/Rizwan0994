@@ -1,4 +1,4 @@
-Hi 👋, I'm Muhammad Rizwan
+<h1>Hey there, I'm Muhammad Rizwan 👋</h1>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
