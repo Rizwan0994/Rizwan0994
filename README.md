@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Rizwan0994&color=green)
-<h1>Hey there, I'm <a href="https://www.linkedin.com/in/muhammad-rizwann/" target="_blank">Muhammad Rizwan</a> 👋</h1>
+<h1>Hey there, I'm <a href="https://www.linkedin.com/in/muhammad-rizwann/" target="_blank">Muhammad Rizwan</a> 👋 - Problem Solver</h1>
  <br> 
 <h2> ⚙️ &nbsp;Tools & Technologies Used</h2>
 <p align="left">
