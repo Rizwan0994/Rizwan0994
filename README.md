@@ -19,9 +19,9 @@
           
           
           
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=deepajarout)](https://github.com/deepajarout)
+[![Muhammad’s github stats](https://github-readme-stats.vercel.app/api?username=Rizwan0994)](https://github.com/Rizwan0994)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepajarout&layout=compact)](https://github.com/deepajarout)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepajarout&layout=compact)](https://github.com/Rizwan0994)
 </p>
 <!--
 **Rizwan0994/Rizwan0994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
