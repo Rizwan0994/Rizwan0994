@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Rizwan0994&color=green)
 <h1>Hey there, I'm <a href="https://www.linkedin.com/in/muhammad-rizwann/" target="_blank">Muhammad Rizwan</a> 👋</h1>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
