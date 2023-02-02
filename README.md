@@ -2,7 +2,7 @@
 <h1>Hey there, I'm <a href="https://www.linkedin.com/in/muhammad-rizwann/" target="_blank">Muhammad Rizwan</a> 👋 - Problem Solver</h1>
  <br> 
  <h2>🤝 &nbsp;Connect With me</h2>
-
+<br> 
 <h2> ⚙️ &nbsp;Tools & Technologies Used</h2>
 <p align="left">
 
@@ -26,7 +26,7 @@
                               
   <br> 
   <br> 
- <h2>👨‍💻 Technical Skills & Expertise</h2>
+ <h2>👨‍💻 &nbsp;Technical Skills & Expertise</h2>
  <ul>
  <li>
  Development of Web Applications, Mobile Applications, and Desktop Applications
