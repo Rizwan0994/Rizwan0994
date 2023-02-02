@@ -17,7 +17,8 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="FIGMA" width="45" height="45"/>
           
-          
+<h2> 📈 &nbsp;Github Stats</h2>
+<p align="left">          
           
 [![Muhammad’s github stats](https://github-readme-stats.vercel.app/api?username=Rizwan0994)](https://github.com/Rizwan0994)
 
