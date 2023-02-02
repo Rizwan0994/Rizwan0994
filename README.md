@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Rizwan0994&color=green)
 <h1>Hey there, I'm <a href="https://www.linkedin.com/in/muhammad-rizwann/" target="_blank">Muhammad Rizwan</a> 👋</h1>
-
+ <br> 
 <h2> ⚙️ &nbsp;Tools & Technologies Used</h2>
 <p align="left">
 
@@ -16,14 +16,14 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" alt="android" width="45" height="45"/>  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="FIGMA" width="45" height="45"/>
-          
+ <br>         
  <h2>👨‍💻 Technical Skills & Expertise</h2>
  <ul>
  <li>
  Development of Web Applications, Mobile Applications, and Desktop Applications
  </li>
 </ul>
-
+ <br> 
 <h2> 📈 &nbsp;Github Stats</h2>
 <p align="left">          
           
