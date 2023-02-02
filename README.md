@@ -17,9 +17,6 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="FIGMA" width="45" height="45"/>
  
- 
- <br>  
- 
  <h2>👨‍💻 Technical Skills & Expertise</h2>
  <ul>
  <li>
