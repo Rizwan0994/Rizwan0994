@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Rizwan0994&color=green)
 <h1>Hey there, I'm <a href="https://www.linkedin.com/in/muhammad-rizwann/" target="_blank">Muhammad Rizwan</a> 👋</h1>
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> ⚙️ &nbsp;Tools & Technologies Used</h2>
 <p align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45"/>
