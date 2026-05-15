@@ -104,6 +104,7 @@ Building scalable SaaS platforms, AI-powered automations, cloud-native systems, 
 <img src="https://img.shields.io/badge/Workflow_Automation-0066FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-00A67E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MCP_Servers-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </p>
 
